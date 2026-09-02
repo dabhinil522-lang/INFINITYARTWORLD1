@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Handcrafted Wooden Bowl",
+        "description": "A beautifully handcrafted wooden bowl, perfect for serving salads or as a decorative piece.",
+        "price": 1500,
+        "image": "assets/images/wooden_bowl.jpg",
+        "category": "Home Decor"
+    },
+    {
+        "id": 2,
+        "name": "Abstract Canvas Art",
+        "description": "An abstract canvas painting that adds a touch of modern art to your living space.",
+        "price": 3000,
+        "image": "assets/images/abstract_art.jpg",
+        "category": "Art"
+    },
+    {
+        "id": 3,
+        "name": "Ceramic Coffee Mug",
+        "description": "A handmade ceramic mug, perfect for your morning coffee or tea.",
+        "price": 800,
+        "image": "assets/images/ceramic_mug.jpg",
+        "category": "Kitchenware"
+    },
+    {
+        "id": 4,
+        "name": "Woven Wall Hanging",
+        "description": "A stunning woven wall hanging that brings warmth and texture to your walls.",
+        "price": 2500,
+        "image": "assets/images/wall_hanging.jpg",
+        "category": "Home Decor"
+    },
+    {
+        "id": 5,
+        "name": "Personalized Leather Journal",
+        "description": "A personalized leather journal, perfect for jotting down thoughts or sketches.",
+        "price": 1200,
+        "image": "assets/images/leather_journal.jpg",
+        "category": "Stationery"
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "infinityartworld",
+  "version": "1.0.0",
+  "description": "A website for purchasing handmade art products.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "art",
+    "handmade",
+    "ecommerce"
+  ],
+  "author": "InfinityArtWorld Team",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
